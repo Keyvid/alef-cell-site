@@ -1,20 +1,52 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
 
-# Run and deploy your AI Studio app
+Alef Cell - Assistência Técnica Especializada
+Este é o site institucional da Alef Cell, uma assistência técnica especializada em smartphones. O projeto foi desenvolvido para apresentar os serviços oferecidos, facilitar o contato via WhatsApp e exibir a localização das unidades de atendimento.
 
-This contains everything you need to run your app locally.
+🚀 Tecnologias Utilizadas
+O projeto foi construído utilizando as tecnologias mais modernas do ecossistema Frontend:
 
-View your app in AI Studio: https://ai.studio/apps/c3bfd475-3c86-430a-ad17-9e67ec458da5
+React.js: Biblioteca para construção da interface.
 
-## Run Locally
+Vite: Ferramenta de build ultra-rápida.
 
-**Prerequisites:**  Node.js
+Tailwind CSS: Framework de estilização utilitária para um design responsivo.
 
+Lucide React: Biblioteca de ícones leves e elegantes.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Framer Motion: Utilizado para animações fluidas na interface.
+
+ Funcionalidades
+Design Responsivo: O site se adapta perfeitamente a computadores, tablets e celulares.
+
+Botão de WhatsApp Flutuante: Acesso direto ao suporte para orçamentos rápidos.
+
+Seção de Serviços: Detalhamento de reparos em telas, baterias e software.
+
+Mapa de Localização: Integração para facilitar a chegada dos clientes às lojas.
+
+ Como rodar o projeto localmente
+Se você deseja clonar este repositório e rodar na sua máquina, siga os passos abaixo:
+
+Clone o repositório:
+
+Bash
+git clone https://github.com/SeuUsuario/alef-cell-site.git
+Acesse a pasta:
+
+Bash
+cd alef-cell-site
+Instale as dependências:
+
+Bash
+npm install
+Inicie o servidor de desenvolvimento:
+
+Bash
+npm run dev
+ Deploy
+O site está disponível online através da Vercel:
+ Acesse o site aqui (Substitua pelo seu link real)
+
+ Autor
+Desenvolvido por Francisco Keyvid.
+Estudante de Análise e Desenvolvimento de Sistemas (ADS).
